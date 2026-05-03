@@ -1,0 +1,1 @@
+{"type":"text/json","uri":"file:///data/user/0/com.discord/cache/temp_2512675494610995453.null","name":"Crumbling dreams.txt"}

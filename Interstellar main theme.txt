@@ -1,0 +1,1 @@
+{"type":"text/json","uri":"file:///data/user/0/com.discord/cache/temp_2542340472986018225.null","name":"Interstellar_main_theme.txt"}

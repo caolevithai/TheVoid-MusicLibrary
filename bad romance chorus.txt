@@ -1,0 +1,1 @@
+{"type":"text/json","uri":"file:///data/user/0/com.discord/cache/temp_5600085504796372865.null","name":"bad_romance_chorus.txt"}
