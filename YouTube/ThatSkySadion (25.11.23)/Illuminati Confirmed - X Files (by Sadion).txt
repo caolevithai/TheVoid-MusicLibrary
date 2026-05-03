@@ -1,0 +1,2 @@
+<DontCopyThisLine> 340 0 16 skyMusic skyMusic
+A3B1 B3 B5 C1 B3 B5 C1 B3 B5 C1 B3 B5 C3  .  . C3  .  . C3  .  . B1  .  . A3B1B5 B3 B5 B4C1 B3 B5 B5C1 B3 B5 C1C2 B3 B5 B5C4  .  . B5C4  .  . B5C4  .  . B5C4  .  . A3B1 B3 B5 C1 B3 B5 C1 B3 B5 B1C1 B3 B5 B5C3  .  . B4  .  . B5  .  . C3  .  . A3B1B5 B3 B5 C1 B3 B5 C1 B3 B5 C1 B3 B5 C4  .  . C4  .  . C4  .  . C4C5  .  . A3B1C4 B3 B5 C1C3 B3 B5 C1C2 B3 B5 C1C3 B3 B5 B5C3  .  . B5  .  . B5  .  . B5  .  . A3B1 B3 B5 C1 B3 B5 C1 B3 B5 C1 B3 B5 B2  .  . B2  .  . B2  .  . B2
