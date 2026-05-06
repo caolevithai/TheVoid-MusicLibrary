@@ -20,7 +20,8 @@ def update_index():
                 size = os.path.getsize(full_path)
                 
                 # Percent encoding for URL
-                encoded_path = rel_path.replace(" ", "%20")
+                import urllib.parse
+                encoded_path = urllib.parse.quote(rel_path)
                 
                 files_data.append({
                     "name": file,
