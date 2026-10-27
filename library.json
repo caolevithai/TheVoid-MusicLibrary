@@ -16,7 +16,7 @@
     "size": 4323,
     "bpm": 200,
     "pitch": "C",
-    "columns": 45,
+    "columns": 46,
     "notes": 95
   },
   {
@@ -70,13 +70,13 @@
     "notes": 42
   },
   {
-    "name": "(EASY)Identity V_Waiting Lobby_by SkyLeia (SkyLeia).txt",
-    "path": "Collection/Sky1984/SymbolsDigits/(EASY)Identity V_Waiting Lobby_by SkyLeia (SkyLeia).txt",
+    "name": "Identity V - Waiting (EASY).txt",
+    "path": "Collection/Sky1984/SymbolsDigits/Identity V - Waiting (EASY).txt",
     "url": "https://raw.githubusercontent.com/caolevithai/TheVoid-MusicLibrary/main/Collection/Sky1984/SymbolsDigits/%28EASY%29Identity%20V_Waiting%20Lobby_by%20SkyLeia%20%28SkyLeia%29.txt",
     "size": 6814,
     "bpm": 200,
     "pitch": "D",
-    "columns": 213,
+    "columns": 214,
     "notes": 148
   },
   {
@@ -106,7 +106,7 @@
     "size": 45878,
     "bpm": 850,
     "pitch": "Db",
-    "columns": 1787,
+    "columns": 1788,
     "notes": 779
   },
   {
@@ -116,7 +116,7 @@
     "size": 1596,
     "bpm": 200,
     "pitch": "C",
-    "columns": 48,
+    "columns": 49,
     "notes": 29
   },
   {
@@ -166,18 +166,8 @@
     "size": 2589,
     "bpm": 200,
     "pitch": "C",
-    "columns": 39,
+    "columns": 40,
     "notes": 53
-  },
-  {
-    "name": ", (hh).txt",
-    "path": "Collection/Sky1984/SymbolsDigits/, (hh).txt",
-    "url": "https://raw.githubusercontent.com/caolevithai/TheVoid-MusicLibrary/main/Collection/Sky1984/SymbolsDigits/%2C%20%28hh%29.txt",
-    "size": 32960,
-    "bpm": 200,
-    "pitch": "C",
-    "columns": 331,
-    "notes": 757
   },
   {
     "name": "- IRIS OUT - pahyo._.shirasu (lolotrektvyt11).txt",
@@ -240,8 +230,8 @@
     "notes": 1186
   },
   {
-    "name": "01 Charles whisper.txt",
-    "path": "Collection/Sky1984/SymbolsDigits/01 Charles whisper.txt",
+    "name": "Charles Whisper.txt",
+    "path": "Collection/Sky1984/SymbolsDigits/Charles Whisper.txt",
     "url": "https://raw.githubusercontent.com/caolevithai/TheVoid-MusicLibrary/main/Collection/Sky1984/SymbolsDigits/01%20Charles%20whisper.txt",
     "size": 28141,
     "bpm": 244,
@@ -250,18 +240,18 @@
     "notes": 593
   },
   {
-    "name": "01 Linkin Park.txt",
-    "path": "Collection/Sky1984/SymbolsDigits/01 Linkin Park.txt",
+    "name": "Linkin Park.txt",
+    "path": "Collection/Sky1984/SymbolsDigits/Linkin Park.txt",
     "url": "https://raw.githubusercontent.com/caolevithai/TheVoid-MusicLibrary/main/Collection/Sky1984/SymbolsDigits/01%20Linkin%20Park.txt",
     "size": 10485,
     "bpm": 410,
     "pitch": "C",
-    "columns": 507,
+    "columns": 508,
     "notes": 235
   },
   {
-    "name": "01527-Merry-Christmas-Mr--Lawrence-FYI-圣诞歌曲.txt",
-    "path": "Collection/Sky1984/SymbolsDigits/01527-Merry-Christmas-Mr--Lawrence-FYI-圣诞歌曲.txt",
+    "name": "Merry Christmas - Mr Lawrence.txt",
+    "path": "Collection/Sky1984/SymbolsDigits/Merry Christmas - Mr Lawrence.txt",
     "url": "https://raw.githubusercontent.com/caolevithai/TheVoid-MusicLibrary/main/Collection/Sky1984/SymbolsDigits/01527-Merry-Christmas-Mr--Lawrence-FYI-%E5%9C%A3%E8%AF%9E%E6%AD%8C%E6%9B%B2.txt",
     "size": 52607,
     "bpm": 512,
@@ -300,8 +290,8 @@
     "notes": 1183
   },
   {
-    "name": "01811-You-Belong-With-Me-Taylor-Swift.txt",
-    "path": "Collection/Sky1984/SymbolsDigits/01811-You-Belong-With-Me-Taylor-Swift.txt",
+    "name": "You-Belong-With-Me-Taylor-Swift.txt",
+    "path": "Collection/Sky1984/SymbolsDigits/You-Belong-With-Me-Taylor-Swift.txt",
     "url": "https://raw.githubusercontent.com/caolevithai/TheVoid-MusicLibrary/main/Collection/Sky1984/SymbolsDigits/01811-You-Belong-With-Me-Taylor-Swift.txt",
     "size": 92039,
     "bpm": 480,
@@ -11243,7 +11233,7 @@
     "size": 55238,
     "bpm": 580,
     "pitch": "D",
-    "columns": 2095,
+    "columns": 2096,
     "notes": 927
   },
   {
@@ -11817,8 +11807,8 @@
     "notes": 1364
   },
   {
-    "name": "Blue billie eilish.txt",
-    "path": "Collection/Discord/SkyAutoMusic/share-songs channel (04.10.24 18-20)/Blue billie eilish.txt",
+    "name": "BLUE - Billie Eilish.txt",
+    "path": "Collection/Discord/SkyAutoMusic/share-songs channel (04.10.24 18-20)/BLUE - Billie Eilish.txt",
     "url": "https://raw.githubusercontent.com/caolevithai/TheVoid-MusicLibrary/main/Collection/Discord/SkyAutoMusic/share-songs%20channel%20%2804.10.24%2018-20%29/Blue%20billie%20eilish.txt",
     "size": 27470,
     "bpm": 190,
@@ -30856,8 +30846,8 @@
     "notes": 642
   },
   {
-    "name": "Gasoline。.txt",
-    "path": "Collection/Sky1984/G/Gasoline。.txt",
+    "name": "Gasoline - Halsey.txt",
+    "path": "Collection/Sky1984/G/Gasoline - Halsey.txt",
     "url": "https://raw.githubusercontent.com/caolevithai/TheVoid-MusicLibrary/main/Collection/Sky1984/G/Gasoline%E3%80%82.txt",
     "size": 38866,
     "bpm": 500,
@@ -34054,16 +34044,6 @@
     "pitch": "Bb",
     "columns": 421,
     "notes": 423
-  },
-  {
-    "name": "Halsey_Gasoline Transposition.txt",
-    "path": "Collection/Sky1984/!15-25s/H/Halsey_Gasoline Transposition.txt",
-    "url": "https://raw.githubusercontent.com/caolevithai/TheVoid-MusicLibrary/main/Collection/Sky1984/%2115-25s/H/Halsey_Gasoline%20Transposition.txt",
-    "size": 2550,
-    "bpm": 240,
-    "pitch": "Db",
-    "columns": 72,
-    "notes": 46
   },
   {
     "name": "Halyosy ft. Vocaloids - Blessing (by KiMuJo).txt",
@@ -54000,24 +53980,14 @@
     "notes": 824
   },
   {
-    "name": "Love Wins All (3).txt",
-    "path": "Collection/Discord/SkyAutoMusic/request-songs channel (08.07.24 12-50)/Love Wins All (3).txt",
+    "name": "IU - Love Wins All.txt",
+    "path": "Collection/Discord/SkyAutoMusic/request-songs channel (08.07.24 12-50)/IU - Love Wins All.txt",
     "url": "https://raw.githubusercontent.com/caolevithai/TheVoid-MusicLibrary/main/Collection/Discord/SkyAutoMusic/request-songs%20channel%20%2808.07.24%2012-50%29/Love%20Wins%20All%20%283%29.txt",
     "size": 11624,
     "bpm": 301,
     "pitch": "C",
-    "columns": 623,
+    "columns": 624,
     "notes": 393
-  },
-  {
-    "name": "Love Wins All.txt",
-    "path": "Collection/Discord/SkyAutoMusic/share-songs channel (04.10.24 18-20)/Love Wins All.txt",
-    "url": "https://raw.githubusercontent.com/caolevithai/TheVoid-MusicLibrary/main/Collection/Discord/SkyAutoMusic/share-songs%20channel%20%2804.10.24%2018-20%29/Love%20Wins%20All.txt",
-    "size": 73634,
-    "bpm": 301,
-    "pitch": "C",
-    "columns": 1,
-    "notes": 11561
   },
   {
     "name": "Love You And Love Me (Xích Đạo Và Bắc Cực, 赤道和北极) (by Pudding).txt",
